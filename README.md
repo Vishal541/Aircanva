@@ -34,4 +34,6 @@ To run the Air Canvas project, you will need the following:
 
 ## Creator
 
-This Air Canvas project was created by Vishal. If you have any questions or would like to learn more about this project, you can reach out to the creator for further information and assistance.
+This Air Canvas project was created by Vishal. 
+Email: vishalaggarwal541@gmail.com
+If you have any questions or would like to learn more about this project, you can reach out to the creator for further information and assistance.
